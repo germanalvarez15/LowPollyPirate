@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CDB79A8D-393B-9C2F-3A69-77212D8A998C}") = "LowPollyPirateGame", "Assembly-CSharp.csproj", "{53B92B8E-76B5-D0BC-33FF-3CBE0CB0E067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B92B8E-76B5-D0BC-33FF-3CBE0CB0E067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B92B8E-76B5-D0BC-33FF-3CBE0CB0E067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B92B8E-76B5-D0BC-33FF-3CBE0CB0E067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B92B8E-76B5-D0BC-33FF-3CBE0CB0E067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
