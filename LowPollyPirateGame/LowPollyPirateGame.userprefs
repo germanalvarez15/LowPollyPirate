@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\pruebaMovimiento.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="D:\Proyectos\Salto de Plataformas\Assets\Scripts\colisionConTriggers.cs">
     <Files>
-      <File FileName="Assets\Scripts\MovimientoContinuo.cs" Line="8" Column="16" />
-      <File FileName="Assets\Scripts\ClickParaAndar.cs" Line="22" Column="6" />
-      <File FileName="Assets\pruebaMovimiento.cs" Line="22" Column="77" />
+      <File FileName="Assets\Scripts\MovimientoContinuo.cs" Line="15" Column="1" />
+      <File FileName="D:\Proyectos\Salto de Plataformas\Assets\Scripts\colisionConTriggers.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\ClickParaAndar.cs" Line="19" Column="65" NotebookId="1" />
+      <File FileName="Assets\Scripts\actviacion.cs" Line="22" Column="39" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

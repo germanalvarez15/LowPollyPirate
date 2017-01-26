@@ -48,7 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\ClickParaAndar.cs" />
      <Compile Include="Assets\Scripts\MovimientoContinuo.cs" />
-     <Compile Include="Assets\pruebaMovimiento.cs" />
+     <Compile Include="Assets\Scripts\actviacion.cs" />
+     <Compile Include="Assets\Scripts\pruebaMovimiento.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
