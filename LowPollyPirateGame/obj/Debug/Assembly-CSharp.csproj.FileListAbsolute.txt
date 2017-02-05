@@ -27,3 +27,4 @@ C:\Users\YeeRMaaN\Desktop\LowPollyPirate\LowPollyPirate\LowPollyPirateGame\Temp\
 C:\Users\YeeRMaaN\Desktop\LowPollyPirate\LowPollyPirate\LowPollyPirateGame\Temp\bin\Debug\UnityEngine.VR.xml
 C:\Users\YeeRMaaN\Desktop\LowPollyPirate\LowPollyPirate\LowPollyPirateGame\obj\Debug\Assembly-CSharp.dll
 C:\Users\YeeRMaaN\Desktop\LowPollyPirate\LowPollyPirate\LowPollyPirateGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\YeeRMaaN\Desktop\LowPollyPirate\LowPollyPirate\LowPollyPirateGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
